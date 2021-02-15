@@ -1,0 +1,17 @@
+Tracking Data for 02_15_21
+************************************
+
+Sleep: 
+************************************
+Bed Time: 10:15pm
+Wake Time: 6:45am
+Hours Slept: 8.5
+
+Fitness: 
+************************************
+Weight: 258.6
+Workout: 8.5 hours
+
+Miscellaneous Trackers: 
+************************************
+Meditate: No
